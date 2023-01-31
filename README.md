@@ -7,6 +7,7 @@ This project lets you use our pre configured modules still with ability to confi
 
 ## Modules
 - [X] Hand Tracking Unit
+- [X] Face Mesh Unit
 - [ ] Mouse Controls
 - [ ] Mouse Click Actions
 - [ ] Individual Finger action function

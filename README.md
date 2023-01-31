@@ -6,7 +6,7 @@ Our aim through this project is to provide a better development experience of de
 This project lets you use our pre configured modules still with ability to configure important parameters.
 
 ## Modules
+- [X] Hand Tracking Unit
 - [ ] Mouse Controls
 - [ ] Mouse Click Actions
-- [ ] Hand Tracking Unit
 - [ ] Individual Finger action function

@@ -11,6 +11,6 @@ This project lets you use our pre configured modules still with ability to confi
 - [X] Hand Tracking Unit
 - [X] Face Mesh Unit
 - [X] Full Body Motion Capture 
-- [ ] Mouse Controls
-- [ ] Mouse Click Actions
-- [ ] Individual Finger action function
+- [X] Mouse Controls
+- [X] Mouse Click Actions
+- [X] Individual Finger action function

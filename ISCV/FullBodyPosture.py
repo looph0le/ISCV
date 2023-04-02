@@ -6,7 +6,7 @@ mpDraw = mp.solutions.drawing_utils
 mpPose = mp.solutions.pose
 pose = mpPose.Pose()
 
-cap = cv2.VideoCapture('demo_video.webm')
+cap = cv2.VideoCapture(2)
 pTime = 0
 
 while True:

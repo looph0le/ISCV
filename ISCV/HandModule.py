@@ -77,7 +77,7 @@ class handDetector:
             return allHands
 
 
-    def findPosition(self, img, handNo=0, draw=True):
+    def findPosition(self, img, handNo=0, draw=True, printidlm=False):
         xList = []
         yList = []
         bbox = []
@@ -85,7 +85,8 @@ class handDetector:
         if self.results.multi_hand_landmarks:
             myHand = self.results.multi_hand_landmarks[handNo]
             for id, lm in enumerate(myHand.landmark):
-                # print(id, lm)
+                if printidlm == True:
+                    print(id, lm)
                 h, w, c = img.shape
                 cx, cy = int(lm.x * w), int(lm.y * h)
                 xList.append(cx)

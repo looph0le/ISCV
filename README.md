@@ -1,7 +1,7 @@
 # ISCV
 ISCV (Interactive Simulations using Computer Vision) is an python library that lets you use machine learning models in an easy and productive way for your project.
 
-![ISCV 'Interactive Simulations Using Computer Vision Logo'](logo.png)
+![ISCV 'Interactive Simulations Using Computer Vision Logo'](https://raw.githubusercontent.com/looph0le/ISCV/main/logo.png)
 
 ## AIM
 Our aim through this project is to provide a better development experience of developing machine learning applications which require machine learning models and configurations.

@@ -13,4 +13,3 @@ This project lets you use our pre configured modules still with ability to confi
 - [X] Full Body Motion Capture 
 - [X] Mouse Controls
 - [X] Mouse Click Actions
-- [X] Individual Finger action function

@@ -1,4 +1,3 @@
-from HandModule import handDetector
-from FaceMesh import FaceMeshDetector
+import HandModule
 import Aimousetracking
 import FullBodyPosture

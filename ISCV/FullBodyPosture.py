@@ -23,5 +23,3 @@ def main(vcam=0, presults=False):
 
         cv2.imshow("Image", img)
         cv2.waitKey(1)
-
-main(vcam=2, presults=True)

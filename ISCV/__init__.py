@@ -1,4 +1,3 @@
-import HandModule
-import Aimousetracking
-import FullBodyPosture
-import FaceMesh
+from .FaceMesh import *
+from .FullBodyPosture import *
+from .HandModule import *
